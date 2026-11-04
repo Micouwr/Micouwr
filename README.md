@@ -4,7 +4,7 @@ I spent 20 years running technical operations. Now I build AI workflows with gua
 
 ## Projects
 
-**[AI Ticket Triage](https://github.com/Micouwr/AI-TRIAGE_Bot)** - Not another classifier demo. Governance enforced in code: escalation rules, PII redaction, human review triggers. Evaluated on 26 real tickets: 88.5% accuracy, 100% PII recall, every miss routed to a human.
+**[Vigil](https://github.com/Micouwr/Vigil)** - Not another classifier demo. Governance enforced in code: escalation rules, PII redaction, human review triggers. Evaluated on 26 real tickets: 88.5% accuracy, 100% PII recall, every miss routed to a human.
 
 **[CareerForge](https://github.com/Micouwr/job-application-bot)** - A resume tool that tells you no. A match threshold decides whether tailoring runs at all. Grounding rules keep every word factual. Export produces a clean 2-page PDF or Word doc.
 
