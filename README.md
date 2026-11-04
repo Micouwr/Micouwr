@@ -1,6 +1,6 @@
 # William Ryan Micou
 
-I spent 20 years running technical operations. Now I build AI workflows with guardrails: systems that know when not to trust the model.
+I spent 20 years running technical operations. Now I build AI workflows that assume the model will get things wrong. Every system I ship enforces safety rules in code: when confidence drops, when sensitive data appears, or when the answer matters too much to guess, the system stops and hands off to a human.
 
 ## Projects
 
