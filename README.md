@@ -14,7 +14,7 @@ Most AI demos show what the model can do. I build for what happens when it shoul
 
 ## Background
 
-- 20+ years technical operations leadership: CIMSystem, Accucode, CompuCom, The Newcom Group
+- 20+ years in technical operations, service delivery, infrastructure support, and operational leadership, at CIMSystem, Accucode, CompuCom, and The Newcom Group. Now focused on AI governance, workflow automation, and human-in-the-loop systems.
 - ISO/IEC 42001:2023 AI Management System Fundamentals, plus applied AI certifications
 - Louisville, KY, working remote
 
