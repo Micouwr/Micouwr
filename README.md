@@ -6,7 +6,7 @@ I spent 20 years running technical operations. Now I build AI workflows that ass
 
 <img src="https://raw.githubusercontent.com/Micouwr/Vigil/main/assets/Vigil.png" alt="Vigil logo" width="240">
 
-**[Vigil](https://github.com/Micouwr/Vigil)** - Not another classifier demo. Governance enforced in code: escalation rules, PII redaction, human review triggers. Evaluated on 26 real tickets: 88.5% accuracy, 100% PII recall, every miss routed to a human.
+**[Vigil](https://github.com/Micouwr/Vigil)** - Reads incoming IT support tickets, sorts them, and sends anything risky, sensitive, or uncertain to a human instead of guessing. Tested on 26 real tickets: 88.5% right, every piece of personal data caught, every mistake sent to a human.
 
 <img src="https://raw.githubusercontent.com/Micouwr/Threshold/main/assets/Threshold.png" alt="Threshold logo" width="200">
 
