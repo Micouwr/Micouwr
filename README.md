@@ -1,16 +1,16 @@
 # William Ryan Micou
 
-I spent 20 years running technical operations. Now I build AI workflows that assume the model will get things wrong. Every system I ship enforces safety rules in code: when confidence drops, when sensitive data appears, or when the answer matters too much to guess, the system stops and hands off to a human.
+I spent 20+ years working in technical operations. Now I design AI workflows around a simple assumption: the model will get things wrong. In every system I ship, uncertainty goes to a human: when confidence drops, when sensitive data appears, or when the answer matters too much to guess, the system stops or flags it instead of guessing.
 
 ## Projects
 
 <img src="https://raw.githubusercontent.com/Micouwr/Vigil/main/assets/Vigil.png" alt="Vigil logo" width="240">
 
-**[Vigil](https://github.com/Micouwr/Vigil)** - Reads incoming IT support tickets, sorts them, and sends anything risky, sensitive, or uncertain to a human instead of guessing. Tested on 26 real tickets: 88.5% right, every piece of personal data caught, every mistake sent to a human.
+**[Vigil](https://github.com/Micouwr/Vigil)** - Reads incoming IT support tickets, sorts them, and sends anything risky, sensitive, or uncertain to a human instead of guessing. Evaluated on 26 real tickets I labeled myself: 88.5% right, all six tickets containing personal data caught, all three mistakes sent to a human. A small first sample, not a benchmark.
 
 <img src="https://raw.githubusercontent.com/Micouwr/Threshold/main/assets/Threshold.png" alt="Threshold logo" width="200">
 
-**[Threshold](https://github.com/Micouwr/Threshold)** - A resume tool that tells you no. A match threshold decides whether tailoring runs at all. Grounding rules keep every word factual. Export produces a clean 2-page PDF or Word doc.
+**[Threshold](https://github.com/Micouwr/Threshold)** - A resume tool that tells you no. In the app, a match threshold decides whether tailoring runs at all. Grounding checks flag anything the source resume does not support, and you decide what to keep. Export produces a clean 2-page PDF or Word doc.
 
 ## The principle
 
