@@ -6,7 +6,7 @@ I spent 20+ years working in technical operations. Now I design AI workflows aro
 
 <img src="https://raw.githubusercontent.com/Micouwr/Vigil/main/assets/Vigil.png" alt="Vigil logo" width="240">
 
-**[Vigil](https://github.com/Micouwr/Vigil)** - Reads incoming IT support tickets, sorts them, and sends anything risky, sensitive, or uncertain to a human instead of guessing. Evaluated on 26 real tickets I labeled myself: 88.5% right, all six tickets containing personal data caught, all three mistakes sent to a human. A small first sample, not a benchmark.
+**[Vigil](https://github.com/Micouwr/Vigil)** - Reads incoming IT support tickets, sorts them, and sends anything risky, sensitive, or uncertain to a human instead of guessing. Evaluated on 26 real tickets I labeled myself (a small first sample, not a benchmark): 88.5% right, all six tickets containing personal data caught, all three mistakes sent to a human.
 
 <img src="https://raw.githubusercontent.com/Micouwr/Threshold/main/assets/Threshold.png" alt="Threshold logo" width="200">
 
